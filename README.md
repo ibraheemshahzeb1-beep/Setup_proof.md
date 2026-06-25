@@ -1,4 +1,3 @@
-# Setup_proof.md
 # Environment Setup Verification Note
 
 This document serves as the official configuration log for the Platform & Web Engineering track environment verification requirements.
